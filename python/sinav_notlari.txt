@@ -1,0 +1,3 @@
+elif dağlar:100,80,95
+deniz efe:14,54,68
+g g:4,4,4
